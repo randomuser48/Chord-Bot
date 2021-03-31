@@ -78,7 +78,7 @@ Controls via Reactions
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
+1. [Fork the repository](https://github.com/Innocent143/Chord-Bot)
 2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
