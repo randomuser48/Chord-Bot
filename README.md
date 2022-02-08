@@ -1,9 +1,6 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
-
-# 🤖 EvoBot (Discord Music Bot)
-> EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# 🤖 Chord Bot (Discord Music Bot)
+> Chord is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -11,20 +8,6 @@
 2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
 2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
 3. Node.js v12.0.0 or newer
-
-## 🚀 Getting Started
-
-If deploying to Heroku make sure to create config variables
-
-![heroku](https://i.imgur.com/iaoUePg.png?1)
-
-```
-git clone https://github.com/eritislami/evobot.git
-cd evobot
-npm install
-```
-
-After installation finishes you can use `node index.js` to start the bot.
 
 ## ⚙️ Configuration
 
@@ -89,17 +72,10 @@ Examples: `1` or `1,2,3`
 * Toggle pruning of bot messages (/pruning)
 * Help (/help, /h)
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
-* Media Controls via Reactions
-![reactions](https://i.imgur.com/j7CevsH.png)
+* 
+Controls via Reactions
 
-## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request
 
 ## 📝 Credits
 
